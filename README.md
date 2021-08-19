@@ -13,7 +13,6 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 #### Download: Stories, Saved Content, Following/followers list, Profile Info
 #### Unfollow all your following
 
-![ins]
 
 ### Usage:
 ```
@@ -23,5 +22,3 @@ bash increased-instagram-followers.sh
 ```
 
 ## by dhanush
-
-![cb]
